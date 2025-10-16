@@ -86,7 +86,7 @@ python app.py
 ## 🤖 Project Workflow
 
 <div align="center">
-  <img src="./assets/workflow.png" alt="Workflow Diagram">
+  <img src="https://drive.google.com/file/d/1zVT-gAy-n69wpeSdCGE2Eg3wDyYEfIjt/view?usp=sharing">
 </div>
 
 1.  **User Input:** A digit is drawn on the web interface.
