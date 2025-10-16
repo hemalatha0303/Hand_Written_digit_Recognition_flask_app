@@ -1,9 +1,4 @@
 
-
-<div align="center">
-
-<img src="https-your-link-to-a-banner-image.png" alt="Project Banner">
-
 # 🧠 Handwritten Digit Recognition AI ✍️
 
 **A full-stack web application that uses a PyTorch-powered Convolutional Neural Network (CNN) to recognize digits drawn on an interactive canvas in real-time.**
@@ -58,7 +53,7 @@ Want to run the project on your own machine? Follow these simple steps.
 
 ### 1. **Clone the Repository**
 ```bash
-git clone [https://github.com/your-username/your-repository-name.git](https://github.com/your-username/your-repository-name.git)
+git clone https://github.com/hemalatha0303/Hand_Written_digit_Recognition_flask_app.git
 cd your-repository-name
 ```
 
@@ -91,7 +86,7 @@ python app.py
 ## 🤖 Project Workflow
 
 <div align="center">
-  <img src="https://your-link-to-a-workflow-diagram.png" alt="Workflow Diagram">
+  <img src="https://drive.google.com/file/d/1zVT-gAy-n69wpeSdCGE2Eg3wDyYEfIjt/view?usp=sharing" alt="Workflow Diagram">
 </div>
 
 1.  **User Input:** A digit is drawn on the web interface.
