@@ -1,0 +1,62 @@
+body{
+  background-color: rgb(9, 52, 73);
+  font-family: sans-serif;
+}
+
+/* Ripple effect */
+.ripple {
+    background-position: center;
+    transition: background 0.8s;
+  }
+  /* .ripple:hover {
+    
+  } */
+  .ripple:active {
+    background: #25282b radial-gradient(circle, transparent 1%, #47a7f5 1%) center/15000%;
+    /* background-color: #6eb9f7; */
+    background-size: 150%;
+    transition: background 0s;
+  }
+.white-text {
+    color: #ffffff;             /* Sets the text color to white */
+    background-color: green;     /* Sets the background color to green */
+    padding: 5px 10px;           /* Adds some nice spacing around the text */
+    border-radius: 5px;          /* Optional: rounds the corners */
+}
+  /* Button style */
+  button {
+    border: none;
+    border-radius: 3px;
+    padding: 12px 18px;
+    font-size: 16px;
+    text-transform: uppercase;
+    cursor: pointer;
+    color: rgb(248, 244, 244);
+    background-color: #0c6ab8;
+    box-shadow: 0 0 4px #999;
+    outline: none;
+  }
+  
+  /* Span style */
+#text {
+    color: #ffffff;
+}
+
+/* Canvas style */
+#can {
+    margin-top: 10;
+    border: 5px solid #ffffff;
+    background-color: black;
+}
+
+/* canvasimage style */
+#canvasimg{
+    position:absolute;
+    display:none;
+}
+
+
+#side{
+  float: left;
+  padding-left:15%;
+}
